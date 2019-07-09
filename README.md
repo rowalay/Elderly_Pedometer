@@ -1,5 +1,5 @@
 # Elderly_Pedometer
-A pedometer Android app especially design for elderly.
+A pedometer Android app especially designed for elderly.
 
 <h1>Features</h1>
 <br>
