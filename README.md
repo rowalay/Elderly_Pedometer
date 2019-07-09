@@ -10,7 +10,7 @@ ExerciseNotes - Android Studio File</br>
 	<img src="record.png" />
 	<img src="setting.png" />
 </br>
-<h1>UI Design</h1>
+
 
 
 
