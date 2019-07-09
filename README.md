@@ -9,8 +9,8 @@ A pedometer Android app especially design for elderly.
 	<img src="setting.png" />
 </br>
 <h1>Files</h1>
-ExerciseNotes - Android Studio File
-書面報告 - Project Report
+ExerciseNotes - Android Studio File</br>
+書面報告 - Project Report</br>
 
 <h1>UI Design</h1>
 
