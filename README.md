@@ -1,6 +1,8 @@
 # Elderly_Pedometer
-A pedometer Android app especially design for elderly.
-
+A pedometer Android app especially designed for elderly.
+<h1>Files</h1>
+ExerciseNotes - Android Studio File</br>
+書面報告 - Project Report</br>
 <h1>Features</h1>
 <br>
 	<img src="main.png" />
@@ -8,11 +10,7 @@ A pedometer Android app especially design for elderly.
 	<img src="record.png" />
 	<img src="setting.png" />
 </br>
-<h1>Files</h1>
-ExerciseNotes - Android Studio File
-書面報告 - Project Report
 
-<h1>UI Design</h1>
 
 
 
